@@ -1,1 +1,1 @@
-# exercise
+Console application for Active channels exercise
